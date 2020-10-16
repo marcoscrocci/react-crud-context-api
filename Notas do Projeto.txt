@@ -1,0 +1,5 @@
+Notas do Projeto
+
+Instalar as dependências:
+npm i react-router react-router-dom bootstrap reactstrap uuid
+
