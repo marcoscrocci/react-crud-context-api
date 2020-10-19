@@ -21,6 +21,7 @@ export const AddUser = () => {
       id: uuid(),
       name
     }
+    console.log('onSubmit')
     addUser(newUser);
     history.push("/");
   }
